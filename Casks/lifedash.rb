@@ -1,6 +1,6 @@
 cask "lifedash" do
-  version "2.19.0"
-  sha256 "3ab3fbf971506fef906b63968391a026652b0b4a00448cd8a7f68fe568ade8e5"
+  version "2.19.1"
+  sha256 "47c1143e61babdcec15dba19104e2441c57fd1be670f19708fb23ae0c4ca26f1"
 
   url "https://github.com/Lab-51/lifedash/releases/download/v#{version}/LifeDash-#{version}-mac-arm64.dmg"
   name "LifeDash"
